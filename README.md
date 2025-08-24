@@ -1,9 +1,3 @@
-Nice 🚀 A good **README** will make your project look professional on GitHub and in your resume.
-Here’s a clean, resume-friendly README.md you can use (you can edit details like dataset source or add demo images/screenshots).
-
----
-
-```markdown
 # 🔍 DeepFake Detector (Dual-Branch CNN + Handcrafted Features)
 
 This project implements a **DeepFake detection system** using a **dual-branch neural network**:
